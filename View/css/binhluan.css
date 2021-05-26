@@ -1,0 +1,60 @@
+.submit {
+    float: right;
+    height: 40px;
+    margin-right: 100px;
+    border-radius: 6px;
+    text-decoration: none;
+    background-image: linear-gradient(to right, #5db8ec 0%, #2584e4 51%);
+}
+
+textarea {
+    float: left;
+    width: 700px;
+    height: 40px;
+    border-radius: 6px;
+}
+
+input[type='text'] {
+    float: left;
+    width: 70px;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffff;
+    background-color: #2584e4;
+    margin-right: 30px;
+}
+
+h1 {
+    float: left;
+}
+
+form {
+    margin-top: 100px;
+}
+
+
+/* a {
+    text-decoration: none;
+} */
+
+.show {
+    float: left;
+    margin-right: 500px;
+}
+
+.showbl {
+    width: 100%;
+    float: left;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.line {
+    margin-top: 100px;
+    float: left;
+    width: 100%;
+    background-color: #ccc;
+    height: 2px;
+}
